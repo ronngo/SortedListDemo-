@@ -1,0 +1,13 @@
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.exe
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.deps.json
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.runtimeconfig.json
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.runtimeconfig.dev.json
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.dll
+D:\baitap\SortedListDemo-\bin\Debug\netcoreapp3.1\SortedListDemo-.pdb
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.csprojAssemblyReference.cache
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.AssemblyInfoInputs.cache
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.AssemblyInfo.cs
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.csproj.CoreCompileInputs.cache
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.dll
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.pdb
+D:\baitap\SortedListDemo-\obj\Debug\netcoreapp3.1\SortedListDemo-.genruntimeconfig.cache
